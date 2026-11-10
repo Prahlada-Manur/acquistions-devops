@@ -1,0 +1,7 @@
+.git
+.neon_local
+node_modules
+logs
+.env
+.env.*
+!.env.example
