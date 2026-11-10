@@ -65,3 +65,12 @@
 {"level":"info","message":"User successfully created with email: krishna@lords.com","service":"acquistions-devops"}
 {"level":"info","message":"User registration request received for email: krishna@lords.com","service":"acquistions-devops"}
 {"level":"info","message":"::1 - - [09/Nov/2026:17:01:15 +0000] \"POST /api/auth/register HTTP/1.1\" 201 130 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}
+{"level":"info","message":"User successfully created with email: prahlada@lords.com","service":"acquistions-devops"}
+{"level":"info","message":"User registration request received for email: prahlada@lords.com","service":"acquistions-devops"}
+{"level":"info","message":"::1 - - [10/Nov/2026:06:27:04 +0000] \"POST /api/auth/register HTTP/1.1\" 201 132 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}
+{"level":"info","message":"::1 - - [10/Nov/2026:06:27:35 +0000] \"GET /health HTTP/1.1\" 200 74 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}
+{"level":"info","message":"::1 - - [10/Nov/2026:07:05:17 +0000] \"GET /health HTTP/1.1\" 500 33 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}
+{"level":"info","message":"::1 - - [10/Nov/2026:07:06:18 +0000] \"GET /health HTTP/1.1\" 500 33 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}
+{"ip":"::1","level":"warn","message":"BOT request blocked","path":"/health","service":"acquistions-devops","userAgent":"PostmanRuntime/7.53.0"}
+{"level":"info","message":"::1 - - [10/Nov/2026:07:07:21 +0000] \"GET /health HTTP/1.1\" 403 21 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}
+{"level":"info","message":"::1 - - [10/Nov/2026:07:11:34 +0000] \"GET /health HTTP/1.1\" 200 73 \"-\" \"PostmanRuntime/7.53.0\"","service":"acquistions-devops"}

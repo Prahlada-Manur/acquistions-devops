@@ -36,6 +36,8 @@
   "homepage": "https://github.com/Prahlada-Manur/acquistions-devops#readme",
   "description": "",
   "dependencies": {
+    "@arcjet/inspect": "^1.5.0",
+    "@arcjet/node": "^1.5.0",
     "@neondatabase/serverless": "^1.2.0",
     "bcrypt": "^6.0.0",
     "cookie-parser": "^1.4.7",
